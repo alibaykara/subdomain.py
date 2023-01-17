@@ -2,8 +2,10 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/alibaykara/favicon.py?style=social)
 
 
-## Screenshots
-
+## subdomain.py
+```bash
+python3 subdomain.py -d hackerone.com -o subdomain.txt
+```
 python3 subdomain.py -d hackerone.com -o subdomain.txt
 
 ```console
