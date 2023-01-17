@@ -5,6 +5,8 @@
 ## Screenshots
 
 python3 subdomain.py -d hackerone.com -o subdomain.txt
+
+```console
                __        __                      _                    
    _______  __/ /_  ____/ /___  ____ ___  ____ _(_)___    ____  __  __
   / ___/ / / / __ \/ __  / __ \/ __ `__ \/ __ `/ / __ \  / __ \/ / / /
@@ -44,10 +46,10 @@ Hello Welcome subdomain Scanner Ali Baykara
     [+] Subdomain:  https://www.hackerone.com/hackerone-community-blog
 [+] Discovered subdomains are saved in subdomain.txt
 [+] Scanning completed
+```
 
 
-
-# favicon.py
+# subdomain.py
 
 subdomain.py Scanner
 
@@ -63,13 +65,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd favicon.py
-```
-
-Install dependencies
-
-```bash
-  pip install mmh3
+  cd subdomain.py
 ```
 
 Start the python3
