@@ -27,7 +27,17 @@ Start the python3
 
 ## subdomain.py
 ```bash
-python3 subdomain.py -d hackerone.com -o subdomain.txt
+usage: subdomain.py [-h] [-d DOMAIN] [-o OUTPUT]
+
+Subdomain Scanner
+
+options:
+  -h, --help            show this help message and exit
+  -d DOMAIN, --domain DOMAIN
+                        Target Domain
+  -o OUTPUT, --output OUTPUT
+                        Output File
+
 ```
 python3 subdomain.py -d hackerone.com -o subdomain.txt
 
