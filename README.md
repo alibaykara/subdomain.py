@@ -1,6 +1,29 @@
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) 
 ![GitHub watchers](https://img.shields.io/github/watchers/alibaykara/favicon.py?style=social)
 
+# subdomain.py
+
+subdomain.py Scanner
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/alibaykara/subdomain.py.git
+```
+
+Go to the project directory
+
+```bash
+  cd subdomain.py
+```
+
+Start the python3
+
+```bash
+  python3 subdomain.py -d hackerone.com -o subdomain.txt
+```
 
 ## subdomain.py
 ```bash
@@ -50,37 +73,7 @@ Hello Welcome subdomain Scanner Ali Baykara
 [+] Scanning completed
 ```
 
-
-# subdomain.py
-
-subdomain.py Scanner
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/alibaykara/subdomain.py.git
-```
-
-Go to the project directory
-
-```bash
-  cd subdomain.py
-```
-
-Start the python3
-
-```bash
-  python3 subdomain.py -d hackerone.com -o subdomain.txt
-```
-
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.alibaykara.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alibaykara/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sudoalibaykara)
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
