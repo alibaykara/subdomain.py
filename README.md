@@ -1,8 +1,8 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/alibaykara/favicon.py?style=social)
 
-# subdomain.py
+# Subdomain.py
 
-subdomain.py Scanner
+Subdomain.py Scanner
 
 
 ## Run Locally
